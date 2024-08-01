@@ -1,0 +1,10 @@
+git add
+git commit 
+git push origin main
+git pull
+git init -create github file from file location
+git add. -for add whole file
+git remote add origin "link of repository" -to create a origin to push
+git branch - to view branch
+git branch -m main - changing the name of the branch
+
